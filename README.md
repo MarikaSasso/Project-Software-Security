@@ -15,7 +15,11 @@ Le tecniche mostrate nell'elaborato sono state utilizzate puramente a scopo acca
 
 ## Documentazione
 
-Nella cartella è presente la documentazione prodotta durante lo sviluppo, e un breve video che mostra la demo del software.
+Nella cartella è presente la documentazione prodotta durante lo sviluppo, e di seguito il link a un video che mostra la demo del software.
+
+https://drive.google.com/file/d/13srom5Y3N8W9znjNPZuVhJwMLC6A7cHX/view?usp=drive_link
+
+
 ## Authors
 
 - [Andrea Dinetti](https://github.com/AndreaDino)
